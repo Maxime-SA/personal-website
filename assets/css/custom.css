@@ -51,6 +51,7 @@ a.case-study-btn:hover {
   flex-direction: column-reverse;
   align-items: center;
   justify-content: space-between;
+  gap: 5px;
 }
 
 .otterContainer p {
