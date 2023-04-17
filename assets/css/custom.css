@@ -51,7 +51,7 @@ a.case-study-btn:hover {
   flex-direction: column-reverse;
   align-items: center;
   justify-content: space-between;
-  gap: 5px;
+  gap: 1.5em;
 }
 
 .otterContainer p {
@@ -69,7 +69,7 @@ a.case-study-btn:hover {
   border: none;
 }
 
-@media screen and (min-width: 981px) {
+@media screen and (min-width: 1260px) {
   .otterContainer,
   .otterArchitectureContainer {
     flex-direction: row;
@@ -82,7 +82,7 @@ a.case-study-btn:hover {
 }
 
 #main {
-  padding: 3em 4em;
+  padding: 4em 3em 4em 3em;
 }
 
 #one > div > img {
